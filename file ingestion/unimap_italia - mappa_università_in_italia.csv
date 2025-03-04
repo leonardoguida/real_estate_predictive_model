@@ -1,0 +1,233 @@
+Comune,Provincia,Regione,Nome,Longitudine,Latitudine
+MONCALIERI,CITTA' METROPOLITANA DI TORINO,Piemonte,Università delle Tre Età,113755.21.00,449.995.813.999.999
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Accademia Albertina,114961.57.00,11308.27.00
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Accademia di medicina,114927.23.00,450.684.189.999.999
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Dipartimento di Scienze della Vita e Biologia de,114721.17.00,450.652.864.999.999
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Dipartimento di Scienze della Vita e Biologia de,114508.47.00,9227.23.00
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,"DISMA - Dipartimento di Scienze Matematiche """"Gi",110309.39.00,10487.08.00
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Facoltà di Architettura,114467.28.00,450.540.489.999.999
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,GeoClimAlp,106915.22.00,2933.38.00
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Ingegneria dell'Autoveicolo,111263.49.00,5757.32.00
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Segreteria Studenti MFN,114821.19.00,450.656.772.999.999
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Università degli Studi di Torino - Dipartimento,113641.31.00,8720.07.00
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Università di Torino - Dipartimento di Studi P,115006.37.00,10895.23.00
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Università di Torino - Mineralogia Petrografia,114797.48.00,10648.56.00
+TORINO,CITTA' METROPOLITANA DI TORINO,Piemonte,Università di Torino - Rettorato,114859.42.00,11602.21.00
+VINOVO,CITTA' METROPOLITANA DI TORINO,Piemonte,St. John International University,105362.35.00,449.498.433.999.999
+ASTI,ASTI,Piemonte,Polo universitario di Asti,3515.44.00,150546.45.00
+ALESSANDRIA,ALESSANDRIA,Piemonte,Scienze Infermieristiche,104303.25.00,449.169.867.999.999
+VERRES,AOSTA,Valle d'Aosta,Politecnico Di Torino - Sede Decentrata Di Verre,114987.16.00,110877.56.00
+GENOVA,CITTA' METROPOLITANA DI GENOVA,Liguria,Facoltà di Lingua e Letterature straniere,154626.43.00,68927.05.00
+GENOVA,CITTA' METROPOLITANA DI GENOVA,Liguria,"Laboratorio di Geodesia, Geomatica e GIS",160525.08.00,66755.42.00
+GENOVA,CITTA' METROPOLITANA DI GENOVA,Liguria,Università degli Studi di Genova,154453.07.00,444.148.860.999.999
+VARESE,VARESE,Lombardia,Collegio Universitario Carlo Catteneo,141789.29.00,132774.09.00
+VARESE,VARESE,Lombardia,DICOM - Università degli Studi dell'Insubria,138118.45.00,136086.57.00
+VENEGONO INFERIORE,VARESE,Lombardia,Seminario Arcivescovile di Milano,151353.19.00,457.342.806.999.999
+COMO,COMO,Lombardia,LNESS Laboratory for Epitaxial Nanostructures an,909.278.089.999.999,133580.59.00
+MILANO,CITTA' METROPOLITANA DI MILANO,Lombardia,Accademia di belle arti di Brera,31312.17.00,78701.58.00
+MILANO,CITTA' METROPOLITANA DI MILANO,Lombardia,Facoltà di Agraria,3801.21.00,454.765.761.999.999
+MILANO,CITTA' METROPOLITANA DI MILANO,Lombardia,Facoltà di Medicina Veterinaria,38189.58.00,79477.18.00
+MILANO,CITTA' METROPOLITANA DI MILANO,Lombardia,U9,35219.08.00,455.109.532.999.999
+MILANO,CITTA' METROPOLITANA DI MILANO,Lombardia,Università degli Studi di Milano,3121.03.00,76910.07.00
+BERGAMO,BERGAMO,Lombardia,Università degli studi di Bergamo,110124.25.00,457.045.348.999.999
+BERGAMO,BERGAMO,Lombardia,Università degli Studi di Bergamo,111965.22.00,457.051.537.999.999
+BRESCIA,BRESCIA,Lombardia,Università Cattolica del Sacro Cuore,35847.54.00,89228.51.00
+PAVIA,PAVIA,Lombardia,Dipartimento di Scienze Fisiologiche e Farmacolo,25026.27.00,451.876.013.999.999
+PAVIA,PAVIA,Lombardia,Divisione programmazione e gestione acquisti di,26408.26.00,31069.04.00
+PAVIA,PAVIA,Lombardia,Facoltà di Economia,25387.11.00,3178.23.00
+PAVIA,PAVIA,Lombardia,Facoltà di Filosofia,915.123.919.999.999,451.883.924.999.999
+PAVIA,PAVIA,Lombardia,Facoltà di Lettere e Filosofia,26044.19.00,30807.18.00
+PAVIA,PAVIA,Lombardia,Facoltà di Scienze Politiche,915.776.739.999.999,451.869.872.999.999
+PAVIA,PAVIA,Lombardia,Fondazione Eucentre,22424.13.00,452.020.960.999.999
+PAVIA,PAVIA,Lombardia,Istituto di Geografia,26269.08.00,31128.01.00
+PAVIA,PAVIA,Lombardia,Istituto di Zoologia Lazzaro Spallanzani,25171.17.00,451.885.170.999.999
+PAVIA,PAVIA,Lombardia,Palazzo del Mayno,26346.59.00,31043.53.00
+PAVIA,PAVIA,Lombardia,Polo Scientifico Università di Pavia,913.762.539.999.999,3421.19.00
+PAVIA,PAVIA,Lombardia,Università di Pavia,26154.08.00,31230.22.00
+PAVIA,PAVIA,Lombardia,Università di Pavia - Facoltà di Botanica,27259.08.00,451.853.594.999.999
+MANTOVA,MANTOVA,Lombardia,Politecnico di Milano - Sede di Mantova,131253.22.00,451.604.158.999.999
+BOLZANO,BOLZANO,Trentino-Alto Adige,UniBz Language Center,113.497.188.999.999,464.964.920.999.999
+GARNIGA TERME,TRENTO,Trentino-Alto Adige,Fondazione Mach - Centro di Ecologia Alpina,8998.44.00,2450.08.00
+TRENTO,TRENTO,Trentino-Alto Adige,Rettorato - Università di Trento,111.230.218.999.999,11174.42.00
+VERONA,VERONA,Veneto,Accademia di Belle Arti Cignaroli,165486.48.00,454.348.389.999.999
+VERONA,VERONA,Veneto,Facoltà di Giurisprudenza,165417.16.00,454.343.441.999.999
+VERONA,VERONA,Veneto,Facoltà di Scienze Motorie,110.316.744.999.999,454.450.075.999.999
+RONCADE,TREVISO,Veneto,H-Farm,124.277.000.999.999,94129.33.00
+MIRA,CITTA' METROPOLITANA DI VENEZIA,Veneto,Ca' Foscari,121.689.346.999.999,75004.57.00
+VENEZIA,CITTA' METROPOLITANA DI VENEZIA,Veneto,Ca' Cappello,55016.08.00,72761.01.00
+VENEZIA,CITTA' METROPOLITANA DI VENEZIA,Veneto,Università Ca' Foscari,54420.04.00,454.344.956.999.999
+VENEZIA,CITTA' METROPOLITANA DI VENEZIA,Veneto,Università Iuav di Venezia,42520.54.00,79985.18.00
+PADOVA,PADOVA,Veneto,Accademia Galileiana di Scienze Lettere e Arti,118.708.636.999.999,67937.59.00
+PADOVA,PADOVA,Veneto,ASU,118.813.400.999.999,454.050.721.999.999
+PADOVA,PADOVA,Veneto,"Aula studio """"Jappelli""""",147516.52.00,454.082.502.999.999
+PADOVA,PADOVA,Veneto,Centro diritti umani - Università di Padova,145996.11.00,68381.19.00
+PADOVA,PADOVA,Veneto,Centro Linguistico di Ateneo,118.949.520.999.999,454.109.072.999.999
+PADOVA,PADOVA,Veneto,Centro Multimediale d'Ateneo,146147.55.00,67323.36.00
+PADOVA,PADOVA,Veneto,Cisspat,146357.44.00,69298.02.00
+PADOVA,PADOVA,Veneto,Dipartimento di Scienze Statistiche,147376.12.00,67467.12.00
+PADOVA,PADOVA,Veneto,Facoltà teologica del Triveneto,145548.56.00,66956.58.00
+PADOVA,PADOVA,Veneto,Psicologia,14909.13.00,68767.21.00
+PADOVA,PADOVA,Veneto,Scuola Galileiana - Segreteria e Direzione,118.747.960.999.999,454.053.912.999.999
+UDINE,UDINE,Friuli-Venezia Giulia,Dipartimento di Scienze giuridiche,40375.23.00,10902.16.00
+UDINE,UDINE,Friuli-Venezia Giulia,Università di Udine - sede Rettorato,38760.54.00,11066.09.00
+GORIZIA,GORIZIA,Friuli-Venezia Giulia,Università degli studi di Trieste,105163.26.00,459.398.036.999.999
+GORIZIA,GORIZIA,Friuli-Venezia Giulia,Università degli studi di Udine,103091.24.00,459.433.168.999.999
+TRIESTE,TRIESTE,Friuli-Venezia Giulia,Università degli Studi di Trieste - Facoltà di,129143.29.00,456.571.136.999.999
+TRIESTE,TRIESTE,Friuli-Venezia Giulia,Università degli Studi di Trieste - Scuola Supe,129125.48.00,109172.15.00
+REGGIO NELL'EMILIA,REGGIO EMILIA,Emilia-Romagna,Facoltà di Ingegneria,111477.36.00,446.877.228.999.999
+MODENA,MODENA,Emilia-Romagna,UNIMORE Facoltà di Giurisprudenza,154639.07.00,107549.01.00
+MODENA,MODENA,Emilia-Romagna,UNIMORE Università degli Studi di Modena e Regg,157257.07.00,10579.31.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,,54679.58.00,444.870.992.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Accademia di Belle Arti,58840.37.00,444.977.836.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Aula Absidale di Santa Lucia,58085.01.00,81696.09.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Aula Magna di Santa Lucia,57967.07.00,8203.04.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,CUSB - Centro Universitario Sportivo Bologna,59250.42.00,82746.33.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Dipartimento di Matematica per le Scienze Econom,113.565.308.999.999,444.956.044.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Dipartimento di Scienze Giurdiche Antonio Cicu,59443.59.00,82560.15.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Ex Chiesa di Santa Lucia,58013.32.00,81661.01.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Facoltà di Scienze Politiche,113.538.014.999.999,8227.17.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Instituto di Cancerologia,113.575.339.999.999,444.950.716.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Instituto Zoni,59434.36.00,444.960.177.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Johns Hopkins University,59327.07.00,444.947.701.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Opera Universitaria - Collegio Forni,113.566.997.999.999,444.946.162.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Scuola di Ingegneria e Architettura,54929.16.00,444.876.721.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Sistema Bibliotecario d'ateneo,113.565.334.999.999,82603.37.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Aule Ercolani,59419.56.00,444.972.337.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Arti Vi,59226.33.00,81434.44.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Chimica,59328.17.00,82731.09.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Chimica,58999.28.00,444.962.446.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Fisica,59559.06.00,83593.38.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Geologi,59300.59.00,82978.29.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Matemat,59326.57.00,444.979.532.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Musica,55854.35.00,445.024.143.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Patolog,59301.28.00,444.968.155.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Scienze,59348.19.00,444.970.629.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Scienze,58966.57.00,444.957.660.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Scienze,58702.23.00,444.977.209.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento di Scienze,59095.09.00,444.960.519.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Dipartimento Medicina e,59212.16.00,82839.29.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna facoltà di economia,113.592.052.999.999,445.015.368.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna - Facoltà di Farmacia -,59795.24.00,444.988.463.999.999
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Università di Bologna servizio disabili,59741.54.00,83670.27.00
+BOLOGNA,CITTA' METROPOLITANA DI BOLOGNA,Emilia-Romagna,Via Mario Fantin,54722.14.00,899.32.00
+ARGENTA,FERRARA,Emilia-Romagna,Università degli Studi di Ferrara - Sede di Arg,139571.59.00,446.181.843.999.999
+CENTO,FERRARA,Emilia-Romagna,CenTec,112.911.933.999.999,121366.46.00
+FERRARA,FERRARA,Emilia-Romagna,Dipartimento di Fisica e Scienze della Terra,103590.45.00,140361.58.00
+FERRARA,FERRARA,Emilia-Romagna,Dipartimento di Matematica,104996.24.00,14020.56.00
+FERRARA,FERRARA,Emilia-Romagna,"Dipartimento di Morfologia, Chirurgia, Medicina",116.333.898.999.999,448.379.893.999.999
+FERRARA,FERRARA,Emilia-Romagna,Dipartimento di Scienze biomediche e Chirurgico,105254.55.00,138833.59.00
+FERRARA,FERRARA,Emilia-Romagna,Dipartimento di Scienze chimiche e Farmaceutiche,105390.01.00,448.378.372.999.999
+FERRARA,FERRARA,Emilia-Romagna,Dipartimento di Scienze mediche,105329.13.00,139542.46.00
+FERRARA,FERRARA,Emilia-Romagna,Dipartimento di Studi umanistici,103542.52.00,448.323.438.999.999
+FERRARA,FERRARA,Emilia-Romagna,Facoltà di Architettura,103717.05.00,138076.14.00
+FERRARA,FERRARA,Emilia-Romagna,Facoltà di Economia,103728.23.00,448.354.357.999.999
+FERRARA,FERRARA,Emilia-Romagna,Facoltà di Farmacia,116.316.811.999.999,448.372.694.999.999
+FERRARA,FERRARA,Emilia-Romagna,Facoltà di Giurisprudenza,103706.55.00,448.449.756.999.999
+FERRARA,FERRARA,Emilia-Romagna,Facoltà di Ingegneria,99744.23.00,448.340.883.999.999
+FERRARA,FERRARA,Emilia-Romagna,Facoltà di Lettere e Filosofia,104625.17.00,138765.56.00
+FERRARA,FERRARA,Emilia-Romagna,Facoltà di Medicina e Chirurgia,116.324.267.999.999,448.366.305.999.999
+FERRARA,FERRARA,Emilia-Romagna,"Facoltà di Scienze Matematiche, Fisiche e Natur",116.219.079.999.999,140408.35.00
+FERRARA,FERRARA,Emilia-Romagna,Università degli Studi di Ferrara,104410.32.00,138940.17.00
+RAVENNA,RAVENNA,Emilia-Romagna,Università Degli Studi di Bologna,122.020.485.999.999,69580.46.00
+RAVENNA,RAVENNA,Emilia-Romagna,Università di Bologna - Agraria,32841.02.00,444.353.241.999.999
+RAVENNA,RAVENNA,Emilia-Romagna,Università di Bologna - Scienze Ambientali,32732.03.00,7282.03.00
+CESENA,FORLI',Emilia-Romagna,Facoltà di Architettura,122.417.254.999.999,24266.35.00
+CESENA,FORLI',Emilia-Romagna,Facoltà di Architettura,39998.54.00,24168.11.00
+CESENA,FORLI',Emilia-Romagna,Ingegneria e Scienze Informatiche,40508.09.00,23350.23.00
+FORLI',FORLI',Emilia-Romagna,,1067.54.00,35710.01.00
+FORLI',FORLI',Emilia-Romagna,,7823.16.00,36652.27.00
+PESARO,PESARO E URBINO,Marche,università,151361.01.00,153571.36.00
+URBINO,PESARO E URBINO,Marche,Centro Integrato Servizi Didattici ed E-Learning,106349.01.00,120802.02.00
+URBINO,PESARO E URBINO,Marche,Centro Linguistico d'Ateneo,10641.22.00,120971.48.00
+URBINO,PESARO E URBINO,Marche,"Dipartimento Economia, Società, Politica",106095.31.00,120474.31.00
+URBINO,PESARO E URBINO,Marche,Dipartimento Giurisprudenza,126.360.683.999.999,437.218.986.999.999
+URBINO,PESARO E URBINO,Marche,Dipartimento Scienze Biomolecolari,106156.27.00,12096.47.00
+URBINO,PESARO E URBINO,Marche,Dipartimento Scienze della Comunicazione e Disci,106118.23.00,120393.29.00
+URBINO,PESARO E URBINO,Marche,"Dipartimento Scienze della Terra, della Vita e d",106889.07.00,437.007.151.999.999
+URBINO,PESARO E URBINO,Marche,Dipartimento Scienze dell'Uomo,106031.19.00,121295.04.00
+URBINO,PESARO E URBINO,Marche,Dipartimento Scienze di Base e Fondamenti,106104.37.00,121092.22.00
+URBINO,PESARO E URBINO,Marche,Dipartimento Scienze Pure e Applicate,106107.12.00,437.262.863.999.999
+URBINO,PESARO E URBINO,Marche,"Dipartimento Studi Internazionali. Storia, Lingu",106189.43.00,120627.02.00
+URBINO,PESARO E URBINO,Marche,Dipartimento Studi Umanistici,106030.59.00,437.275.005.999.999
+URBINO,PESARO E URBINO,Marche,Sede centrale Università degli Studi di Urbino,106128.32.00,120581.19.00
+CAMERINO,MACERATA,Marche,,11498.29.00,431.357.551.999.999
+MACERATA,MACERATA,Marche,Dipartimento di Lettere e Filosofia,74853.35.00,433.009.625.999.999
+MACERATA,MACERATA,Marche,Dipartimento di Scienze dell'educazione e della,78933.22.00,4831.42.00
+MACERATA,MACERATA,Marche,Residenza Universitaria Bartolo da Sassoferrato,75674.36.00,49487.56.00
+MACERATA,MACERATA,Marche,Università - Facoltà Giurisprudenza - Aula mag,75679.28.00,433.002.127.999.999
+EMPOLI,CITTA' METROPOLITANA DI FIRENZE,Toscana,Urbanistica e Pianificazione,109.481.594.999.999,12010.15.00
+FIRENZE,CITTA' METROPOLITANA DI FIRENZE,Toscana,Accademia Italiana,41567.13.00,127670.05.00
+FIRENZE,CITTA' METROPOLITANA DI FIRENZE,Toscana,Florence Design Academy,4270.49.00,437.738.209.999.999
+FIRENZE,CITTA' METROPOLITANA DI FIRENZE,Toscana,ISIA Firenze,112.603.785.999.999,129297.33.00
+PISA,PISA,Toscana,Alma Artis Academy - Accademia di Belle Arti,66080.05.00,119622.36.00
+PISA,PISA,Toscana,Aula AM-1,67878.45.00,120053.03.00
+PISA,PISA,Toscana,Chimica farmaceutica,6489.23.00,119473.01.00
+PISA,PISA,Toscana,Dipartimento di Fisica 'E. Fermi',67992.56.00,120064.39.00
+PISA,PISA,Toscana,Dipartimento di Informatica,68047.29.00,437.203.779.999.999
+PISA,PISA,Toscana,Dipartimento di Scienze Politiche,66523.29.00,119536.58.00
+PISA,PISA,Toscana,Facoltà di Economia,68414.28.00,118570.38.00
+PISA,PISA,Toscana,Facoltà di Lettere,66179.09.00,437.176.662.999.999
+PISA,PISA,Toscana,Facoltà di Medicina,65889.48.00,437.203.537.999.999
+PISA,PISA,Toscana,Scuola Superiore Sant'Anna,67117.24.00,120144.18.00
+PISA,PISA,Toscana,Segreterie studenti,68161.55.00,120089.51.00
+PISA,PISA,Toscana,Università di Pisa - Rettorato,66487.08.00,119484.02.00
+SAN GIULIANO TERME,PISA,Toscana,"PERCRO, Scuola superiore Sant'Anna",70392.32.00,121582.15.00
+AREZZO,AREZZO,Toscana,Facoltà di Economia (Sede Arezzo),146104.23.00,434.652.567.999.999
+AREZZO,AREZZO,Toscana,Facoltà di Ingegneria (Sede Arezzo),146055.09.00,434.653.205.999.999
+SAN GIOVANNI VALDARNO,AREZZO,Toscana,Scuola infermieri,115.296.337.999.999,435.625.095.999.999
+SIENA,SIENA,Toscana,Facoltà di Lettere e Filosofia,56400.58.00,433.167.724.999.999
+SIENA,SIENA,Toscana,Università per Stranieri di Siena,53596.02.00,55278.22.00
+GROSSETO,GROSSETO,Toscana,Universita di Siena a Grosseto,19137.18.00,127005.01.00
+ASSISI,PERUGIA,Umbria,Facoltà di Economia Del Turismo,97046.43.00,8760.34.00
+ASSISI,PERUGIA,Umbria,Istituto Teologico di Assisi,100813.12.00,12572.46.00
+PERUGIA,PERUGIA,Umbria,Facoltà di Ingegneria,59233.47.00,19860.33.00
+PERUGIA,PERUGIA,Umbria,Università per Stranieri di Perugia,64931.53.00,431.148.525.999.999
+VITERBO,VITERBO,Lazio,Università degli Studi della Tuscia,18819.55.00,424.138.646.999.999
+VITERBO,VITERBO,Lazio,Università degli Studi della Tuscia,1715.41.00,68841.35.00
+VITERBO,VITERBO,Lazio,Università degli Studi della Tuscia,15477.53.00,424.272.927.999.999
+CITTADUCALE,RIETI,Lazio,Università degli Studi della Tuscia,158983.57.00,63998.16.00
+RIETI,RIETI,Lazio,Sabina Universitas,143399.56.00,424.026.861.999.999
+ALLUMIERE,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Centro Residenziale Studi e Ricerche,119.086.368.999.999,25105.52.00
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Botanica,125.175.392.999.999,15087.17.00
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Dipartimento Scienze Statistiche,8603.04.00,419.040.439.999.999
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Facoltà di Medicina,105664.12.00,142801.37.00
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Fisiologia Generale,86060.04.00,419.040.614.999.999
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Genetica,86105.59.00,150485.01.00
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Ortopedia,125.128.097.999.999,150385.12.00
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Pontificia Università della Santa Croce,78927.14.00,419.006.887.999.999
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Pontificio Istituto Biblico,124.836.393.999.999,418.988.026.999.999
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,RomaTre - Facoltà di Scienze Della Formazione,79889.12.00,418.636.180.999.999
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Tor Vergata facoltà di Scienze,100978.03.00,142037.13.00
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Università La Sapienza sede distaccata Architet,124.757.374.999.999,419.040.213.999.999
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Università Sapienza di Roma - Facoltà di Infor,124.971.175.999.999,419.142.198.999.999
+ROMA,CITTA' METROPOLITANA DI ROMA CAPITALE,Lazio,Università Sapienza - Distaccamento Facoltà di,86288.24.00,149901.06.00
+CASERTA,CASERTA,Campania,"Seconda Università di Napoli, Facoltà di Studi",52859.51.00,411.010.697.999.999
+NAPOLI,CITTA' METROPOLITANA DI NAPOLI,Campania,"Università degli Studi di Napoli """"L'Orientale""""",43397.18.00,140911.23.00
+TORRE ANNUNZIATA,CITTA' METROPOLITANA DI NAPOLI,Campania,Università Giurisprudenza Napoli - Preparazioni,77111.05.00,124970.06.00
+FISCIANO,SALERNO,Campania,Università degli studi di Salerno,147.905.251.999.999,128737.12.00
+CHIETI,CHIETI,Abruzzo,Università degli Studi di Chieti 'G. D'Annunzio,25186.21.00,61334.48.00
+FOGGIA,FOGGIA,Puglia,Università degli Studi di Foggia - Facoltà di,86685.36.00,75285.56.00
+BARI,CITTA' METROPOLITANA DI BARI,Puglia,Accademia di Belle Arti di Bari,168.763.706.999.999,411.111.308.999.999
+BARI,CITTA' METROPOLITANA DI BARI,Puglia,biotechnology faculty,146543.39.00,17502.53.00
+BARI,CITTA' METROPOLITANA DI BARI,Puglia,Politecnico di Bari,168.832.334.999.999,411.113.836.999.999
+MATERA,MATERA,Basilicata,"Università della Basilicata, Facoltà di Archit",99598.35.00,111901.01.00
+RENDE,COSENZA,Calabria,Aula P1,162.254.815.999.999,60925.55.00
+RENDE,COSENZA,Calabria,Aula P2 Occupata,37591.51.00,393.654.478.999.999
+RENDE,COSENZA,Calabria,Aula P3,37577.52.00,6139.08.00
+RENDE,COSENZA,Calabria,Aula P4,37574.55.00,6141.11.00
+RENDE,COSENZA,Calabria,LabInf2,162.257.214.999.999,393.653.825.999.999
+PALERMO,CITTA' METROPOLITANA DI PALERMO,Sicilia,Consorzio ARCA,57420.33.00,16791.02.00
+LIPARI,CITTA' METROPOLITANA DI MESSINA,Sicilia,Centro INGV Stromboli,40128.08.00,388.007.692.999.999
+SASSARI,SASSARI,Sardegna,Polo Umanistico dell'Università di Sassari,94983.54.00,407.187.642.999.999
+NUORO,NUORO,Sardegna,Polo di Scienze Forestali - Università di Sassa,51757.19.00,52176.27.00
+CAGLIARI,CAGLIARI,Sardegna,,1879.02.00,38178.44.00
+CAGLIARI,CAGLIARI,Sardegna,,911.198.959.999.999,38199.57.00
+CAGLIARI,CAGLIARI,Sardegna,,911.180.519.999.999,392.290.929.999.999
+CAGLIARI,CAGLIARI,Sardegna,Centro Linguistico di Ateneo,18960.53.00,392.275.734.999.999
+CAGLIARI,CAGLIARI,Sardegna,Università di Cagliari (ex clinica Aresu),911.476.749.999.999,36932.31.00
+PORDENONE,PORDENONE,Friuli-Venezia Giulia,Consorzio universitario di Pordenone,126.806.924.999.999,459.525.343.999.999
+PRATO,PRATO,Toscana,PIN,16481.14.00,438.852.856.999.999
+PRATO,PRATO,Toscana,PIN,16481.14.00,438.852.856.999.999
+VERANO BRIANZA,MONZA-BRIANZA,Lombardia,,3707.08.00,456.769.358.999.999
+FERMO,FERMO,Marche,Università degli Studi di Macerata - Dipartimen,120334.11.00,431.591.159.999.999
+FERMO,FERMO,Marche,Università Politecnica delle Marche - Facoltà,137.222.437.999.999,26521.15.00
