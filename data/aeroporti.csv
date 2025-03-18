@@ -1,0 +1,45 @@
+Aeroporto,Nome Commerciale,Comune,id_comune,Tipo Utilizzo,Latitudine,Longitudine
+ALGHERO FERTILIA,"Aeroporto Internazionale ""Riviera del Corallo""",ALGHERO,Alghero,CIVILE E MILITARE,40.633294,8.289652
+ANCONA FALCONARA,"Aeroporto delle Marche ""Raffaello Sanzio""",FALCONARA MARITTIMA,Falconara Marittima,CIVILE,43.615278,13.3625
+AOSTA,"Aeroporto della Valle d'Aosta ""Corrado Gex""",AOSTA,Aosta,CIVILE,45.738611,7.3625
+BARI,"Aeroporto di Bari ""Karol Wojtyła""",BARI,Bari,CIVILE E MILITARE,41.138056,16.765
+BERGAMO ORIO AL SERIO,"Aeroporto Internazionale ""Il Caravaggio""",ORIO AL SERIO,Orio Al Serio,CIVILE,45.668889,9.700278
+BOLOGNA,"Aeroporto Internazionale ""Guglielmo Marconi""",BOLOGNA,Bologna,CIVILE,44.533333,11.3
+BOLZANO,Aeroporto Bolzano-Dolomiti,BOLZANO,Bolzano,CIVILE E MILITARE,46.460278,11.326389
+BRESCIA MONTICHIARI,"Aeroporto ""Gabriele D'Annunzio""",MONTICHIARI,Montichiari,CIVILE,45.425556,10.326944
+BRINDISI,"Aeroporto ""Papola Casale"" di Brindisi",BRINDISI,Brindisi,CIVILE,40.658056,17.946667
+CAGLIARI,"Aeroporto ""Mario Mameli"" di Cagliari",ELMAS,Elmas,CIVILE,39.25,9.05
+CATANIA,"Aeroporto Internazionale ""Vincenzo Bellini""",CATANIA,Catania,CIVILE,37.466781,15.0639
+COMISO,"Aeroporto di Comiso ""Pio La Torre""",COMISO,Comiso,CIVILE,36.991667,14.606944
+CROTONE,"Aeroporto di Crotone-Sant'Anna ""Pitagora""",CROTONE,Crotone,CIVILE,38.996667,17.079167
+CUNEO LEVALDIGI,Aeroporto di Cuneo,CUNEO,Cuneo,CIVILE,44.547019,7.623217
+FIRENZE,"Aeroporto di Firenze ""Amerigo Vespucci""",FIRENZE,Firenze,CIVILE,43.809722,11.203889
+FOGGIA GINO LISA,"Aeroporto di Foggia ""Gino Lisa""",FOGGIA,Foggia,CIVILE,41.433889,15.535833
+FORLI’,"Aeroporto di Forlì ""Luigi Ridolfi""",FORLI,Forli,CIVILE,44.195,12.069722
+GENOVA SESTRI,"Aeroporto di Genova ""Cristoforo Colombo""",GENOVA,Genova,CIVILE,44.414444,8.838611
+GROSSETO,"Aeroporto della Maremma""Corrado Baccarini""",GROSSETO,Grosseto,CIVILE E MILITARE,42.75,11.066667
+LAMEZIA TERME,Aeroporto Internazionale di Lamezia Terme,LAMEZIA TERME,Lamezia Terme,CIVILE E MILITARE,38.9,16.233333
+LAMPEDUSA,Aeroporto di Lampedusa,LAMPEDUSA,Lampedusa,CIVILE,35.495833,12.611111
+MARINA DI CAMPO,Aeroporto di Marina di Campo,CAMPO NELL'ELBA,Campo Nell'Elba,CIVILE,42.762778,10.240556
+MILANO LINATE,"Aeroporto di Milano-Linate ""Enrico Forlanini""",PESCHIERA BORROMEO,Peschiera Borromeo,CIVILE,45.449444,9.278333
+MILANO MALPENSA,Aeroporto di Milano-Malpensa,FERNO,Ferno,CIVILE,45.63,8.723056
+NAPOLI,"Aeroporto di Napoli-Capodichino ""Ugo Niutta""",NAPOLI,Napoli,CIVILE E MILITARE,40.883333,14.283333
+OLBIA,"Aeroporto di Olbia ""Costa Smeralda""",OLBIA,Olbia,CIVILE,40.898611,9.5175
+PALERMO,"Aeroporto Internazionale ""Falcone e Borsellino""",CINISI,Cinisi,CIVILE,38.181389,13.099444
+PARMA,"Aeroporto di Parma ""Giuseppe Verdi""",PARMA,Parma,CIVILE,44.822222,10.295278
+PERUGIA,"Aeroporto Internazionale dell'Umbria-Perugia ""San Francesco d'Assisi""",PERUGIA,Perugia,CIVILE,43.096944,12.511389
+PESCARA,Aeroporto Internazionale d'Abruzzo,PESCARA,Pescara,CIVILE,42.437222,14.187222
+PISA,"Aeroporto Internazionale ""Galileo Galilei""",PISA,Pisa,CIVILE E MILITARE,43.682778,10.395556
+REGGIO CALABRIA,"Aeroporto dello Stretto ""Tito Minniti""",REGGIO CALABRIA,Reggio Calabria,CIVILE,38.071944,15.653611
+RIMINI – SAN MARINO,"Aeroporto Internazionale di Rimini - San Marino ""Federico Fellini""",RIMINI,Rimini,CIVILE,44.019444,12.609444
+ROMA CIAMPINO,"Aeroporto Internazionale ""Giovan Battista Pastine""",CIAMPINO,Ciampino,CIVILE E MILITARE,41.799444,12.597222
+ROMA FIUMICINO,"Aeroporto Internazionale ""Leonardo da Vinci""",FIUMICINO,Fiumicino,CIVILE,41.800278,12.238889
+RONCHI DEI LEGIONARI,"Aeroporto di Trieste-Ronchi dei Legionari ""Pietro Savorgnan di Brazzà""\nAeroporto del Friuli Venezia Giulia",RONCHI DEI LEGIONARI,Ronchi Dei Legionari,CIVILE,45.8275,13.472222
+SALERNO PONTECAGNANO,Aeroporto di Salerno-Costa d'Amalfi,BELLIZZI,Bellizzi,CIVILE E MILITARE,40.62,14.9125
+TARANTO GROTTAGLIE,"Aeroporto di Grottaglie ""Marcello Arlotta""",GROTTAGLIE,Grottaglie,CIVILE CON PRESENZA MILITARE SULL'OMONIMO SEDIME ADIACENTE,40.516172,17.404786
+TORINO CASELLE,"Aeroporto Internazionale di Torino-Caselle ""Sandro Pertini""",TORINO,Torino,CIVILE,45.2025,7.649444
+TRAPANI BIRGI,"Aeroporto di Trapani-Birgi ""Vincenzo Florio""\nAeroporto militare ""Livio Bassi""",TRAPANI/MARSALA,Trapani/Marsala,CIVILE E MILITARE,37.911944,12.493333
+TREVISO,"Aeroporto di Treviso-Sant'Angelo ""Antonio Canova""",TREVISO,Treviso,CIVILE,45.650833,12.197778
+VENEZIA,"Aeroporto di Venezia-Tessera ""Marco Polo""",VENEZIA,Venezia,CIVILE,45.505278,12.351944
+VERONA VILLAFRANCA,"Aeroporto di Verona-Villafranca ""Valerio Catullo""",VILLAFRANCA DI VERONA/CASELLE,Villafranca Di Verona/Caselle,CIVILE E MILITARE,45.396389,10.888056
+VILLANOVA D’ALBENGA,"Aeroporto Internazionale di Villanova d'Albenga ""Clemente Panero""",VILLANOVA D’ALBENGA,Villanova D’Albenga,CIVILE,44.045833,8.125556
